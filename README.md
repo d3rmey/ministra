@@ -28,9 +28,9 @@ Thanks! :heart:
 
 
 ```sh
-git clone https://github.com/SlaSerX/Ministra
+git clone https://github.com/d3rmey/ministra
 
-cd Ministra/
+cd ministra/
 
 chmod +x install
 
